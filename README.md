@@ -1,6 +1,6 @@
 - 👋 Hi,
-- 👀 I’m interested in things
-- 🌱 I’m currently learning Qt and PyTorch
+- 👀 I’m interested in many things
+- 🌱 I’m currently learning Qt, PyTorch and MicroPython
 - 📫 How to reach me: wenaki.xu@mail.utoronto.ca
 
 <!---
